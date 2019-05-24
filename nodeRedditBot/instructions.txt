@@ -1,0 +1,9 @@
+https://blog.syntonic.io/2017/07/07/reddit-bot-nodejs-example/
+
+
+1. Creating a Reddit App
+2. Creating the Node.js App
+3. Building out the App
+4. Testing the app 
+
+
